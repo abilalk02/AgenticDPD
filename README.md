@@ -1,8 +1,7 @@
 # Self-Evolving Agent-Discovered Low-Complexity Neural Architectures for Digital Predistortion in Analog Radio-over-Fiber Systems
 
 This repository contains the digital predistortion (DPD) models discovered by a
-self-evolving LLM agent for a 5G analog radio-over-fiber link (directly modulated
-VCSEL, 1 km SMF), together with the initial seed models the search started from.
+self-evolving LLM agent for a 5G analog radio-over-fiber link along with the initial seed models the search started from.
 
 ## Repository structure
 
