@@ -4,6 +4,8 @@ This repository contains the digital predistortion (DPD) models discovered by a
 self-evolving LLM agent for a 5G analog radio-over-fiber link, along with the 
 initial seed models the search started from.
 
+![Experimental analog RoF setup](figures/fig1_experimental_setup.png)
+
 ## Repository structure
 
 ```
