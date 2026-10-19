@@ -54,8 +54,8 @@ If you use these models, please cite:
 ```bibtex
 @inproceedings{khalid2027agentdpd,
   author    = {Khalid, Bilal and others},
-  title     = {<paper title>},
-  booktitle = {Optical Fiber Communication Conference (OFC)},
-  year      = {2027}
+  title     = {Self-Evolving Agent-Discovered Low-Complexity Neural Architectures for Digital Predistortion in Analog Radio-over-Fiber Systems},
+  booktitle = {Submitted to Optical Fiber Communication Conference (OFC)},
+  year      = {2026}
 }
 ```
