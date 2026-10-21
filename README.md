@@ -13,12 +13,6 @@ discovered/   DPD models written by the agent during the search
 seeds/        Starting models (KAN, MLP, CNN, GMP, linear FIR)
 ```
 
-## Naming of discovered models
-
-Four candidates are generated per search generation, and each is numbered
-`D-XXX = 4 × generation + candidate`.
-Numbers with no file (D-004, D-017, D-033, D-081, D-098, D-121) were not archived.
-
 ## Models reported in the paper
 
 | Model | Description | RM |
