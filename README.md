@@ -35,12 +35,6 @@ RM is the number of real multiplications per output sample.
 - Complexity of KAN is calculated in accordance with the paper "Hardware-oriented inference complexity of Kolmogorov-Arnold Networks" (IEEE Access)
 - Element-wise operations (activations, gating products) are not counted.
 
-## Dependencies
-
-The models are built from a small set of layer primitives (`RLinear`, `CLinear`,
-`KANLayer`, …) imported from `eqdgm.dpd.primitives`, with the base class from
-`eqdgm.dpd.interface`. Python ≥ 3.10 and PyTorch ≥ 2.0 are required.
-
 ## Citation
 
 If you use these models, please cite:
