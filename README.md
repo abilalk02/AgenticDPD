@@ -23,9 +23,6 @@ seeds/        Starting models (KAN, MLP, CNN, GMP, linear FIR)
 | `discovered/D-097.py` | linear path + 7-tap complex FIR + power-gated KAN correction | 362 |
 | `discovered/D-008.py` | power-conditioned mixture of four MLP experts over 21 taps | 6150 |
 
-D-097 is the agent's design with the KAN hidden width reduced from 8 to 6 and
-the FIR lengthened from 5 to 7 taps, giving the complexity reported in the paper.
-
 ## Complexity convention
 
 RM is the number of real multiplications per output sample.
